@@ -1,2 +1,3 @@
 # plotRandom_function
-Day 22
+
+A function that generates some random data and makes a historgram
